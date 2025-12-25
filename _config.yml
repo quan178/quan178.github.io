@@ -31,11 +31,11 @@ navigation:
   - text: Trang chủ
     url: /
   - text: Giới thiệu
-    url: /about/
+    url: /about
   - text: CV online
-    url: /cv-online/
+    url: /cv-online
   - text: Tags
-    url: /tags/
+    url: /tags
   - text: Kho ảnh
     url: /gallery
 
