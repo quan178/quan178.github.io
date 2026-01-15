@@ -117,4 +117,9 @@ Dưới đây là bộ sưu tập hình ảnh về hành trình Calisthenics và
       <img src="/images/gallery/nx8.jpg" alt="">
     </a>
 </div>
+<div class="gallery-item">
+    <a href="/images/gallery/nx9.jpg">
+      <img src="/images/gallery/nx8.jpg" alt="">
+    </a>
+</div>
 </div>
